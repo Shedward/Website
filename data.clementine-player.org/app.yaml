@@ -1,4 +1,4 @@
-application: clementine-data
+application: clementine-vk
 version: dev
 runtime: python27
 threadsafe: yes
