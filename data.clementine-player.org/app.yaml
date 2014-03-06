@@ -56,6 +56,10 @@ handlers:
 - url: /skydrive
   script: skydrive.app
 
+- url: /vk
+  static_files: static/vk.html
+  upload: static/vk.html
+
 - url: /.*
   script: clementine.app
 
